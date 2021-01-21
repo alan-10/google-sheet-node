@@ -1,0 +1,20 @@
+{
+    "name": "estagio",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "nodemon ./index.ts"
+    },
+    "dependencies": {
+        "express": "^4.17.1",
+        "google-spreadsheet": "3.1.15",
+        "nodemon": "^2.0.7",
+        "nunjucks": "^3.2.2",
+        "yarn": "^1.22.10"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
